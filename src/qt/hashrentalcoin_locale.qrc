@@ -12,7 +12,6 @@
         <file alias="pt">locale/hashrentalcoin_pt.qm</file>
         <file alias="ru">locale/hashrentalcoin_ru.qm</file>
         <file alias="sk">locale/hashrentalcoin_sk.qm</file>
-        <file alias="sv">locale/hashrentalcoin_sv.qm</file>
         <file alias="vi">locale/hashrentalcoin_vi.qm</file>
         <file alias="zh_CN">locale/hashrentalcoin_zh_CN.qm</file>
         <file alias="zh_TW">locale/hashrentalcoin_zh_TW.qm</file>
