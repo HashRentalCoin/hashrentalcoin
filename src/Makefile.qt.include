@@ -15,7 +15,6 @@ QT_TS = \
   qt/locale/hashrentalcoin_pt.ts \
   qt/locale/hashrentalcoin_ru.ts \
   qt/locale/hashrentalcoin_sk.ts \
-  qt/locale/hashrentalcoin_sv.ts \
   qt/locale/hashrentalcoin_vi.ts \
   qt/locale/hashrentalcoin_zh_CN.ts \
   qt/locale/hashrentalcoin_zh_TW.ts
