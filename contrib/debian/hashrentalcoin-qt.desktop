@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HashRentalCoin
+Comment=HashRentalCoin P2P Cryptocurrency
+Comment[fr]=HashRentalCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=HashRentalCoin, eşten eşe kriptografik sanal para birimi
+Exec=hashrentalcoin-qt %u
+Terminal=false
+Type=Application
+Icon=hashrentalcoin128
+MimeType=x-scheme-handler/hashrentalcoin;
+Categories=Office;Finance;

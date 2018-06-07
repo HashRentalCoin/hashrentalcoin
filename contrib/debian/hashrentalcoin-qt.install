@@ -1,0 +1,6 @@
+usr/local/bin/hashrentalcoin-qt usr/bin
+share/pixmaps/hashrentalcoin32.xpm usr/share/pixmaps
+share/pixmaps/hashrentalcoin16.xpm usr/share/pixmaps
+share/pixmaps/hashrentalcoin128.png usr/share/pixmaps
+debian/hashrentalcoin-qt.desktop usr/share/applications
+debian/hashrentalcoin-qt.protocol usr/share/kde4/services/

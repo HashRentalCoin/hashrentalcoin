@@ -1,0 +1,3 @@
+debian/manpages/hashrentalcoind.1
+debian/manpages/hashrentalcoin.conf.5
+debian/manpages/hashrentalcoin-cli.1
